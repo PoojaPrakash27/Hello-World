@@ -1,6 +1,2 @@
-<<<<<<< HEAD
 This is the new second file.
 
-=======
-This is the new second file
->>>>>>> parent of fd39b32... Version1.1
