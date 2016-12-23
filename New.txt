@@ -1,2 +1,4 @@
 This is the new second file.
 
+Hi there
+
