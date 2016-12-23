@@ -1,3 +1,2 @@
 This is the new second file.
 
-This is the new line that was added.
